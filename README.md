@@ -11,8 +11,9 @@ pip install -r requirements.txt
 curl https://ollama.ai/install.sh | sh
 ollama pull llama2
 ```
-[![IMAGE ALT TEXT HERE](demo.png)](https://youtu.be/AGpl1h5K5v4)
 
+### Youtube Demo
+[<img src="demo.png">](https://youtu.be/AGpl1h5K5v4)
 
 You are ready to start
 
